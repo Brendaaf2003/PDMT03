@@ -1,3 +1,3 @@
-# PDMT02
+# PDMT03
 
-App para hacer journaling de tus películas fafavoritas. :) 
+App para hacer journaling de tus películas favoritas. :)
